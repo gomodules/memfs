@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/fs"
 
-	"github.com/psanford/memfs"
+	"gomodules.xyz/memfs"
 )
 
 func ExampleNew() {
